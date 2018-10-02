@@ -1,10 +1,11 @@
-body{
+html{
   font-size: 20px;
 }
 
 .clase1{
 font-size: 12px;
 }
+
 .clase2{
 font-size: 0.8rem;
 }
