@@ -6,7 +6,7 @@ body{
 }
 
 
-.cell-big{
+.banner{
   background-color: green;
   color:white;
   max-width: 100%;
@@ -15,7 +15,7 @@ body{
 
 }
 
-.cell-big h1{
+.banner h1{
   font-size: 1.5rem;
   margin:0 auto 0 auto;
   padding-top:2%;
@@ -38,7 +38,7 @@ body{
 }
 
 @media(max-width: 480px){
-  .cell-big{
+  .banner{
     background-color: green;
     color:white;
     max-width: 100vh;
@@ -47,7 +47,7 @@ body{
 
   }
 
-  .cell-big h1{
+  .banner h1{
     font-size: 4vh;
     margin:0 auto 0 auto;
     padding-top:2%;
